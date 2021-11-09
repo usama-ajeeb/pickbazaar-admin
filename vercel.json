@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://mock.redq.io/graphql",
+      "NEXT_PUBLIC_SHOP_URL": "https://pickbazar-react.vercel.app"
+    }
+  }
+}
