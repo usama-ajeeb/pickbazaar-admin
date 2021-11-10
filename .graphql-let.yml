@@ -1,4 +1,4 @@
-schema: ${NEXT_PUBLIC_GRAPHQL_API_ENDPOINT}
+schema: https://mock.redq.io/graphql
 documents: ./src/**/*.graphql
 plugins:
   - typescript-operations
